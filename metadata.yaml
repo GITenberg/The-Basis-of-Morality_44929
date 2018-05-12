@@ -3,7 +3,7 @@ _version: 0.1.0
 contributor:
   translator:
     agent_name: Bullock, Arthur Broderick
-    birthdate: &id001 1860
+    birthdate: 1860
     gutenberg_agent_id: '42994'
     url: http://www.gutenberg.org/2009/agents/42994
 covers:
@@ -13,13 +13,15 @@ creator:
   author:
     agent_name: Schopenhauer, Arthur
     birthdate: 1788
-    deathdate: *id001
+    deathdate: 1860
     gutenberg_agent_id: '3648'
     url: http://www.gutenberg.org/2009/agents/3648
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Schopenhauer
 description: Pt. 1. Introduction -- pt. 2. Critique of Kant's basis of ethics -- pt.
   3. The founding of ethics -- pt. 4. On the metaphysical explanation of the primal
   ethical phaenomenon.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44929#The-Basis-of-Morality
 gutenberg_issued: '2014-02-16'
 gutenberg_type: Text
 identifiers:
